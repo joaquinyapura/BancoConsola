@@ -23,3 +23,22 @@ En esta app podrás:
    ```bash
    git clone https://github.com/tu-usuario/BancoConsolaApp.git
    cd BancoConsolaApp
+
+
+
+## Authors
+
+- [@octokatherine](https://www.github.com/octokatherine)
+
+
+
+## Autor
+
+- [@joaquinyapura](https://github.com/joaquinyapura)
+
+
+
+## Agradecimientos
+
+Hice este readme con  https://readme.so/editor . Lo dejo por aquí por si les cuesta un poco el formateo de el readme.
+
