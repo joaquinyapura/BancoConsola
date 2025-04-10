@@ -14,7 +14,6 @@ En esta app podrás:
 - 💸 Retirar dinero (con validación de fondos)
 - 📜 Ver el historial de movimientos
 - 🔁 Cambiar de cliente en cualquier momento
-- ❌ Salir del sistema
 
 ---
 ## 🧪 Cómo ejecutarlo
